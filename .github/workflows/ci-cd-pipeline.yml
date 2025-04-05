@@ -54,7 +54,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "18"
-          cache: "npm"
+          # Removed the cache: 'npm' line that was causing the error
 
       - name: Backend Tests
         working-directory: ./server
