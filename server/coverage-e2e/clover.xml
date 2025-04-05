@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743881727521" clover="3.2.0">
+  <project timestamp="1743881727521" name="All files">
+    <metrics statements="63" coveredstatements="42" conditionals="10" coveredconditionals="8" methods="13" coveredmethods="0" elements="86" coveredelements="50" complexity="0" loc="63" ncloc="63" packages="4" files="7" classes="7"/>
+    <package name="src">
+      <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="0" coveredmethods="0"/>
+      <file name="app.module.ts" path="C:\Users\msi\Desktop\fullstack\server\src\app.module.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tasks">
+      <metrics statements="41" coveredstatements="21" conditionals="2" coveredconditionals="0" methods="12" coveredmethods="0"/>
+      <file name="tasks.controller.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\tasks.controller.ts">
+        <metrics statements="16" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+      <file name="tasks.module.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\tasks.module.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="tasks.service.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\tasks.service.ts">
+        <metrics statements="19" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="42" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tasks.dto">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="create-task.dto.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\dto\create-task.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="update-task.dto.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\dto\update-task.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.tasks.entities">
+      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="task.entity.ts" path="C:\Users\msi\Desktop\fullstack\server\src\tasks\entities\task.entity.ts">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
